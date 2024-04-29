@@ -1,4 +1,4 @@
-Proyecto creado para un proyecto de la Universidad Nacional de Colombia  
+Programa creado para un proyecto de la Universidad Nacional de Colombia   
 Autores:  
 Samuel Eduardo Fajardo Quintero  
 Santiago Gamboa Martínez  
